@@ -35,36 +35,35 @@ The notebook includes:
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚙ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mariammohamedhamza/your-repo-name.git
-    ```
+```bash
+# 1. Clone the repository
+git clone https://github.com/mariammohamedhamza/your-repo-name.git
+```
 
-##Install the required libraries:
- ```bash 
-    pip install pandas matplotlib openpyxl
-     ```
-##Launch the Jupyter Notebook:
- ```bash 
-   jupyter notebook frist_pro.ipynb
-       ```
+```bash
+# 2. Install the required libraries
+pip install pandas matplotlib openpyxl
+```
 
-##Notes
+```bash
+# 3. Launch the Jupyter Notebook
+jupyter notebook frist_pro.ipynb
+```
 
--Make sure the Excel file path is correct in the code.
+## 📌 Notes
 
--You can extend this project with deeper statistical analysis or machine learning models
+- Make sure the Excel file path is correct in the code.
+- You can extend this project with deeper statistical analysis or machine learning models.
 
 ---
 
 ## 🙌 Final Thoughts
 
-This project is a simple yet solid foundation for anyone getting started with data analysis using Python. It demonstrates how to load, clean, analyze, and visualize data in a practical and effective way.
+This project is a simple yet solid foundation for anyone getting started with data analysis using Python.  
+It demonstrates how to load, clean, analyze, and visualize data in a practical and effective way.
 
-Feel free to fork the repository, experiment with the code, and take the analysis further. Whether you're a beginner or just brushing up your skills — happy coding! 🚀
-
----
-
+Feel free to fork the repository, experiment with the code, and take the analysis further.  
+Whether you're a beginner or just brushing up your skills — happy coding! 🚀
 
