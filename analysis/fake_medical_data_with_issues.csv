@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Height_cm,Weight_kg,BMI,Blood_Pressure,Heart_Rate,Cholesterol,Diabetes,Smoker,Exercise_Freq,Alcohol_Intake,Medication,Diagnosis,Visit_Date,Follow_Up_Days,Doctor_Notes,Insurance_Status,Hospital
+P1000,25.0,Male,160.0,70.0,100.0,,72.0,Normal,Y,NaN,Weekly,,DrugB,,not_a_date,,,Uninsured,
+P1001,40.0,Male,175.0,80.0,22.0,,-20.0,High,Y,No,Never,High,,Diabetes,not_a_date,60.0,Check BP,,
+P1002,102.0,,,-45.0,27.5,,-20.0,Normal,Y,,Daily,None,DrugB,Diabetes,2025-01-10,,,,
+P1003,150.0,,180.0,80.0,100.0,120/80,100.0,,,No,Weekly,,DrugA,None,,30.0,,Insured,Hospital B
+P1004,40.0,,999.0,90.0,100.0,200/150,,,No,,Weekly,High,,,2025-01-10,90.0,Follow-up required,,
+P1005,,Female,-160.0,-45.0,,200/150,72.0,,No,,Never,High,Unknown,Diabetes,not_a_date,,,Insured,
+P1006,150.0,Male,999.0,-45.0,22.0,,-20.0,Low,Y,No,Rarely,High,,Hypertension,,60.0,,,Hospital A
+P1007,40.0,Male,999.0,60.0,22.0,140/90,,,Unknown,NaN,Weekly,,DrugB,,2025-02-20,,Follow-up required,,Hospital A
+P1008,150.0,Female,175.0,60.0,100.0,invalid,,,No,,Daily,,,Hypertension,2025-01-10,-10.0,,Insured,
+P1009,102.0,Female,999.0,90.0,27.5,,200.0,Normal,Yes,NaN,Weekly,High,DrugA,Hypertension,not_a_date,-10.0,Check BP,,
+P1010,40.0,,160.0,60.0,,120/80,200.0,Normal,No,NaN,invalid,High,,None,,90.0,,Insured,
+P1011,25.0,,175.0,60.0,-3.0,120/80,-20.0,Normal,No,,Rarely,High,DrugB,,not_a_date,-10.0,,Insured,Hospital B
+P1012,40.0,Female,,70.0,,140/90,-20.0,High,Y,No,Weekly,High,,,2025-02-20,,,,Hospital A
+P1013,-5.0,Female,180.0,70.0,-3.0,200/150,,Low,Unknown,,invalid,Moderate,Unknown,,2025-01-10,90.0,,,
+P1014,25.0,Female,175.0,90.0,-3.0,invalid,100.0,Low,,,Never,Moderate,Unknown,Hypertension,,60.0,,,
+P1015,102.0,Unknown,175.0,-45.0,100.0,200/150,72.0,High,Unknown,No,Daily,,DrugB,Hypertension,2025-01-10,-10.0,,Uninsured,
+P1016,,Female,999.0,60.0,,120/80,,High,Unknown,,Weekly,Moderate,DrugB,,2025-02-20,60.0,Follow-up required,Uninsured,
+P1017,102.0,Female,180.0,-45.0,100.0,120/80,200.0,Low,Y,Yes,Rarely,None,DrugB,Diabetes,,60.0,Check BP,,Hospital A
+P1018,40.0,Female,,60.0,22.0,140/90,,High,,,Never,,DrugB,Diabetes,,,Check BP,Insured,
+P1019,40.0,Female,180.0,60.0,,140/90,85.0,Low,Unknown,,Never,None,DrugA,Diabetes,2025-01-10,,Follow-up required,Uninsured,Hospital B
+P1020,40.0,Unknown,-160.0,,,,-20.0,,Unknown,,invalid,,DrugA,,not_a_date,,Follow-up required,Uninsured,
+P1021,40.0,Unknown,175.0,80.0,-3.0,120/80,100.0,,Yes,Yes,Never,Moderate,,Hypertension,not_a_date,30.0,,,
+P1022,-5.0,Female,,60.0,27.5,120/80,-20.0,High,,Yes,invalid,,DrugB,,,30.0,Follow-up required,,
+P1023,-5.0,,999.0,60.0,27.5,invalid,200.0,,Y,Yes,Daily,None,,Diabetes,2025-01-10,90.0,Check BP,,Hospital A
+P1024,,Female,,70.0,27.5,,100.0,Low,Unknown,,Never,None,DrugA,Diabetes,not_a_date,60.0,,,Hospital A
+P1025,40.0,Male,,60.0,27.5,200/150,-20.0,High,Y,,Daily,None,,Diabetes,,-10.0,,,Hospital B
+P1026,150.0,Male,-160.0,70.0,-3.0,200/150,72.0,Low,,,Never,Moderate,DrugB,Hypertension,,60.0,,,Hospital A
+P1027,102.0,,160.0,-45.0,-3.0,invalid,85.0,,Unknown,No,Weekly,High,,Hypertension,not_a_date,60.0,Follow-up required,,Hospital B
+P1028,150.0,,180.0,60.0,-3.0,,,,Yes,,Weekly,None,DrugB,,2025-01-10,60.0,Follow-up required,,
+P1029,40.0,Female,175.0,-45.0,27.5,invalid,-20.0,Low,Unknown,,Weekly,None,Unknown,Hypertension,2025-01-10,-10.0,,Uninsured,
+P1030,,Male,160.0,,100.0,,72.0,Normal,,No,Rarely,Moderate,,None,not_a_date,,,Uninsured,
+P1031,,Unknown,,80.0,,140/90,100.0,Normal,No,,Daily,None,,,2025-01-10,60.0,Follow-up required,Insured,Hospital A
+P1032,102.0,Male,180.0,,100.0,invalid,100.0,Normal,Yes,NaN,Daily,,Unknown,Diabetes,2025-02-20,30.0,,,
+P1033,102.0,Unknown,160.0,90.0,27.5,invalid,85.0,,,,Rarely,Moderate,,,,90.0,,Insured,
+P1034,-5.0,,180.0,60.0,22.0,200/150,72.0,Normal,Unknown,,Never,,,None,not_a_date,30.0,Check BP,,Hospital B
+P1035,102.0,Unknown,,,,200/150,100.0,,Y,Yes,Daily,None,DrugA,Diabetes,not_a_date,90.0,,Uninsured,Hospital B
+P1036,-5.0,,180.0,90.0,100.0,,,High,Yes,,Daily,None,Unknown,Diabetes,,30.0,Check BP,Uninsured,
+P1037,,,,90.0,,,100.0,Low,No,No,Never,Moderate,Unknown,,,-10.0,Check BP,Uninsured,
+P1038,102.0,Male,-160.0,,-3.0,200/150,100.0,High,Y,No,invalid,,DrugB,Hypertension,,60.0,Follow-up required,,
+P1039,102.0,Male,180.0,60.0,100.0,140/90,-20.0,High,No,No,Rarely,,,,2025-01-10,-10.0,Check BP,Insured,
+P1040,,,175.0,80.0,,invalid,200.0,,Yes,,Rarely,High,DrugA,,not_a_date,-10.0,,Uninsured,
+P1041,25.0,Male,999.0,-45.0,27.5,200/150,100.0,Normal,Y,Yes,invalid,,,Diabetes,2025-02-20,30.0,,Insured,Hospital A
+P1042,25.0,Male,175.0,,100.0,200/150,,Normal,,NaN,Rarely,Moderate,Unknown,,2025-01-10,60.0,Check BP,Uninsured,Hospital A
+P1043,25.0,,180.0,80.0,22.0,,200.0,,,,Never,,Unknown,,2025-01-10,-10.0,,,Hospital B
+P1044,,Male,175.0,60.0,,140/90,200.0,High,Unknown,No,Weekly,None,Unknown,,not_a_date,90.0,,,Hospital B
+P1045,150.0,Unknown,160.0,60.0,,120/80,-20.0,Normal,Y,Yes,Rarely,None,,None,,-10.0,Check BP,Uninsured,
+P1046,150.0,,160.0,90.0,,120/80,100.0,Normal,,Yes,Daily,Moderate,DrugB,,,90.0,Check BP,Insured,Hospital B
+P1047,25.0,Unknown,160.0,80.0,-3.0,invalid,85.0,High,,,Never,,DrugA,None,,60.0,Follow-up required,Uninsured,
+P1048,25.0,,999.0,90.0,27.5,120/80,200.0,Normal,Y,,Never,Moderate,DrugA,Diabetes,,90.0,,Uninsured,
+P1049,102.0,Female,160.0,90.0,,,,High,Unknown,Yes,Never,,Unknown,,2025-01-10,60.0,,,Hospital B
+P1050,,Male,180.0,90.0,,invalid,100.0,,,No,invalid,None,,,,,,Uninsured,Hospital B
+P1051,-5.0,Unknown,175.0,90.0,,200/150,85.0,Low,Unknown,,Daily,Moderate,DrugB,None,2025-02-20,,Follow-up required,,Hospital B
+P1052,150.0,Male,180.0,,22.0,140/90,,Normal,,No,invalid,None,,,2025-01-10,,,,Hospital A
+P1053,150.0,Unknown,175.0,-45.0,100.0,200/150,72.0,,Unknown,,Never,None,,,2025-02-20,30.0,Check BP,,
+P1054,40.0,Male,999.0,-45.0,-3.0,120/80,100.0,,Y,,Never,,,,2025-02-20,,Follow-up required,,Hospital B
+P1055,25.0,Female,160.0,80.0,100.0,200/150,-20.0,,No,NaN,Weekly,Moderate,DrugB,,,30.0,,Uninsured,
+P1056,150.0,Male,160.0,90.0,,200/150,72.0,,Unknown,,Rarely,Moderate,,None,not_a_date,90.0,,,
+P1057,25.0,,175.0,70.0,100.0,invalid,,High,Unknown,,Never,High,,None,not_a_date,,Follow-up required,,
+P1058,-5.0,Male,175.0,90.0,,140/90,100.0,High,,,invalid,,,,not_a_date,90.0,Follow-up required,Uninsured,
+P1059,40.0,Male,175.0,60.0,27.5,120/80,72.0,Low,No,NaN,invalid,None,DrugB,,2025-01-10,90.0,,Insured,
+P1060,40.0,,175.0,,,120/80,100.0,High,Unknown,No,invalid,,Unknown,,2025-02-20,,Follow-up required,,Hospital B
+P1061,-5.0,,999.0,80.0,100.0,,85.0,Normal,Y,NaN,Daily,Moderate,,,2025-01-10,30.0,Check BP,,Hospital A
+P1062,25.0,,175.0,,100.0,200/150,85.0,,No,,Never,None,,Hypertension,,60.0,,,
+P1063,102.0,Female,160.0,-45.0,22.0,,72.0,,Unknown,,Daily,,,None,2025-01-10,30.0,,Insured,Hospital A
+P1064,150.0,Female,180.0,80.0,22.0,120/80,,Low,Y,Yes,Daily,High,,None,,-10.0,,,
+P1065,-5.0,Male,-160.0,-45.0,-3.0,,85.0,Low,Unknown,Yes,Rarely,High,,,not_a_date,90.0,Check BP,Uninsured,
+P1066,40.0,Unknown,-160.0,,,200/150,200.0,Low,Y,No,Rarely,None,Unknown,,2025-01-10,-10.0,,,
+P1067,102.0,Female,,90.0,27.5,140/90,200.0,Low,Unknown,,Daily,None,DrugA,,,60.0,,,Hospital A
+P1068,25.0,Male,-160.0,80.0,-3.0,140/90,,Normal,No,,invalid,High,,None,,-10.0,Check BP,Insured,Hospital B
+P1069,25.0,,999.0,70.0,22.0,140/90,100.0,Low,Unknown,,Daily,,DrugA,None,2025-02-20,90.0,Check BP,,
+P1070,-5.0,,-160.0,-45.0,,120/80,85.0,Low,Yes,NaN,Rarely,High,Unknown,None,,-10.0,,Insured,Hospital B
+P1071,-5.0,Male,,80.0,27.5,,200.0,Low,No,NaN,invalid,,,,2025-01-10,60.0,Check BP,,
+P1072,-5.0,Male,180.0,70.0,22.0,invalid,85.0,Normal,No,NaN,Rarely,High,DrugA,,,30.0,Check BP,,Hospital A
+P1073,,,175.0,60.0,,200/150,200.0,Normal,Y,Yes,Daily,None,DrugB,Diabetes,2025-01-10,90.0,Follow-up required,,
+P1074,25.0,,,60.0,27.5,200/150,,,No,No,Never,,DrugB,Diabetes,,,Follow-up required,Insured,Hospital A
+P1075,25.0,Unknown,180.0,70.0,22.0,140/90,200.0,Low,,,Weekly,,,Diabetes,,60.0,Check BP,,Hospital B
+P1076,150.0,Male,180.0,,22.0,140/90,-20.0,Low,Yes,NaN,Daily,,DrugA,,not_a_date,,Check BP,,Hospital B
+P1077,,,175.0,70.0,,,72.0,Normal,No,Yes,Rarely,Moderate,,,not_a_date,-10.0,Follow-up required,,
+P1078,-5.0,Female,-160.0,,27.5,200/150,-20.0,High,No,No,Weekly,,DrugA,Hypertension,,30.0,,Insured,Hospital A
+P1079,150.0,Male,175.0,,27.5,,85.0,High,No,,Never,Moderate,Unknown,Hypertension,not_a_date,90.0,,Uninsured,
+P1080,40.0,,180.0,90.0,,200/150,100.0,,,,invalid,Moderate,DrugA,Hypertension,,60.0,Follow-up required,,Hospital A
+P1081,102.0,,999.0,70.0,-3.0,200/150,85.0,Low,No,,invalid,High,,,2025-01-10,60.0,,Insured,Hospital B
+P1082,-5.0,Unknown,-160.0,70.0,100.0,200/150,200.0,Normal,No,,invalid,High,DrugB,Diabetes,not_a_date,-10.0,Check BP,Insured,
+P1083,-5.0,Unknown,175.0,,22.0,invalid,72.0,High,Y,No,invalid,None,,,2025-02-20,30.0,,,Hospital B
+P1084,150.0,,-160.0,70.0,22.0,200/150,200.0,Low,,NaN,Never,,DrugA,,2025-01-10,60.0,,,Hospital A
+P1085,25.0,,-160.0,90.0,-3.0,140/90,72.0,Normal,,Yes,Daily,High,DrugB,,2025-02-20,30.0,Check BP,Uninsured,Hospital B
+P1086,150.0,Unknown,,,27.5,invalid,-20.0,,Y,No,Daily,High,,,2025-02-20,90.0,,,Hospital A
+P1087,102.0,Male,175.0,60.0,-3.0,120/80,,Normal,,Yes,invalid,,DrugA,Diabetes,,-10.0,,Uninsured,
+P1088,40.0,,-160.0,70.0,22.0,invalid,85.0,,Yes,NaN,invalid,,DrugB,,2025-02-20,,Follow-up required,Insured,Hospital A
+P1089,150.0,Male,180.0,70.0,22.0,,85.0,,No,Yes,Never,,DrugB,Hypertension,,,Check BP,,Hospital A
+P1090,,Male,999.0,80.0,27.5,,200.0,Normal,,No,Weekly,Moderate,DrugA,Hypertension,2025-02-20,30.0,Follow-up required,Uninsured,Hospital A
+P1091,25.0,Male,-160.0,70.0,-3.0,200/150,100.0,,,Yes,Daily,,Unknown,Diabetes,,60.0,Check BP,Insured,
+P1092,102.0,Unknown,999.0,80.0,27.5,120/80,-20.0,Low,Yes,No,Daily,None,Unknown,Diabetes,2025-01-10,90.0,,Insured,
+P1093,25.0,Female,-160.0,90.0,22.0,140/90,-20.0,,,No,Rarely,,,,2025-02-20,60.0,Follow-up required,,Hospital A
+P1094,40.0,Female,-160.0,90.0,27.5,140/90,-20.0,High,Y,Yes,Never,High,DrugB,,not_a_date,,Follow-up required,Uninsured,Hospital A
+P1095,,Female,,90.0,100.0,,100.0,Normal,Unknown,,Never,High,DrugB,Hypertension,2025-01-10,-10.0,Follow-up required,,Hospital B
+P1096,40.0,,,70.0,100.0,invalid,85.0,,Y,NaN,Daily,None,DrugA,Diabetes,2025-01-10,60.0,,,
+P1097,25.0,,175.0,70.0,-3.0,,72.0,High,Unknown,No,invalid,,DrugB,Diabetes,not_a_date,-10.0,Check BP,,
+P1098,,,175.0,,22.0,invalid,85.0,,No,Yes,Daily,None,DrugB,,not_a_date,30.0,Follow-up required,,Hospital A
+P1099,-5.0,,,80.0,,invalid,100.0,Low,Yes,Yes,Weekly,None,,,,90.0,Follow-up required,Insured,Hospital A
+P1100,150.0,,160.0,60.0,,140/90,,Normal,Y,Yes,Rarely,,DrugA,,,30.0,Follow-up required,Uninsured,
+P1101,102.0,,180.0,-45.0,100.0,invalid,72.0,,,Yes,Daily,None,Unknown,,2025-01-10,,Follow-up required,,
+P1102,25.0,Female,180.0,70.0,-3.0,,72.0,Normal,Unknown,,Rarely,High,DrugB,Diabetes,2025-02-20,30.0,,Uninsured,Hospital B
+P1103,,Female,160.0,70.0,-3.0,invalid,85.0,,Y,,Daily,High,,,2025-01-10,,,,
+P1104,-5.0,,175.0,90.0,,140/90,85.0,Low,No,,Daily,Moderate,DrugA,None,,90.0,,,
+P1105,102.0,,,70.0,100.0,,-20.0,,Yes,NaN,invalid,None,,Diabetes,2025-02-20,30.0,Check BP,,
+P1106,40.0,Female,180.0,80.0,27.5,,85.0,High,,Yes,Weekly,,,,2025-02-20,30.0,Check BP,,
+P1107,102.0,Female,180.0,70.0,,200/150,,High,No,,invalid,Moderate,,Diabetes,2025-01-10,,Follow-up required,Insured,Hospital B
+P1108,40.0,,175.0,-45.0,-3.0,,200.0,,,,invalid,Moderate,,Diabetes,not_a_date,90.0,,Insured,
+P1109,-5.0,Unknown,160.0,90.0,100.0,invalid,,Low,,,invalid,None,,None,not_a_date,,,,
+P1110,40.0,,180.0,60.0,22.0,invalid,72.0,,Unknown,,Never,,Unknown,Hypertension,2025-01-10,-10.0,Follow-up required,,Hospital A
+P1111,-5.0,,160.0,,27.5,140/90,85.0,High,Unknown,NaN,Weekly,,Unknown,Diabetes,,60.0,,,Hospital A
+P1112,25.0,Unknown,-160.0,80.0,,,100.0,High,Y,NaN,invalid,Moderate,DrugB,Diabetes,,60.0,Check BP,,
+P1113,,Female,180.0,60.0,-3.0,140/90,,High,No,,Daily,,DrugA,None,2025-01-10,-10.0,Follow-up required,,
+P1114,40.0,Female,160.0,70.0,27.5,,200.0,High,Unknown,NaN,Rarely,Moderate,,Hypertension,,30.0,,Insured,
+P1115,40.0,Unknown,180.0,90.0,100.0,140/90,100.0,,No,,invalid,,DrugB,Diabetes,not_a_date,30.0,Follow-up required,,
+P1116,150.0,,160.0,90.0,100.0,120/80,72.0,,,,Never,,DrugA,,2025-01-10,90.0,Follow-up required,,
+P1117,40.0,,,80.0,100.0,140/90,85.0,,Yes,No,Daily,High,DrugB,Hypertension,not_a_date,-10.0,,Insured,
+P1118,102.0,Female,,90.0,27.5,,72.0,,,NaN,Daily,Moderate,,Diabetes,2025-01-10,,Check BP,Insured,Hospital A
+P1119,40.0,,,80.0,22.0,140/90,72.0,Low,Y,Yes,Daily,None,DrugA,None,not_a_date,90.0,Check BP,,Hospital A
+P1120,40.0,,160.0,,-3.0,invalid,,,Yes,Yes,invalid,High,Unknown,Hypertension,2025-02-20,30.0,Follow-up required,Insured,Hospital B
+P1121,25.0,Unknown,,60.0,-3.0,200/150,85.0,,No,No,Weekly,,,,,90.0,,Insured,Hospital A
+P1122,40.0,Unknown,180.0,70.0,27.5,140/90,-20.0,,Unknown,Yes,Daily,,DrugA,None,2025-02-20,60.0,Follow-up required,Insured,Hospital B
+P1123,150.0,,,90.0,100.0,120/80,,Normal,Y,NaN,invalid,,,Hypertension,2025-01-10,,,Insured,
+P1124,150.0,,-160.0,-45.0,-3.0,,100.0,Low,Yes,No,Weekly,Moderate,DrugB,Hypertension,,60.0,Check BP,,
+P1125,40.0,,180.0,,27.5,invalid,72.0,,Y,Yes,Never,,,Diabetes,2025-02-20,60.0,,,
+P1126,25.0,Female,,-45.0,,140/90,72.0,,No,Yes,Daily,Moderate,Unknown,,,-10.0,,,
+P1127,40.0,Male,,,-3.0,120/80,100.0,,Yes,,Daily,High,,,not_a_date,,Check BP,Insured,
+P1128,150.0,,,90.0,-3.0,invalid,72.0,Normal,,,Daily,,Unknown,,not_a_date,-10.0,Follow-up required,,
+P1129,25.0,Female,160.0,,27.5,200/150,,Low,,,invalid,,DrugB,,,60.0,Follow-up required,Uninsured,Hospital A
+P1130,-5.0,Female,999.0,60.0,27.5,invalid,200.0,,,No,Weekly,,,Hypertension,not_a_date,-10.0,Follow-up required,,
+P1131,25.0,Unknown,175.0,90.0,,200/150,100.0,,Unknown,Yes,Weekly,None,DrugA,,not_a_date,,Check BP,Insured,
+P1132,-5.0,,180.0,,27.5,200/150,85.0,,Yes,,Rarely,,,Diabetes,2025-02-20,30.0,Check BP,,Hospital B
+P1133,25.0,Unknown,,,27.5,200/150,,Normal,No,Yes,Rarely,None,,,2025-02-20,30.0,,,
+P1134,102.0,Female,-160.0,60.0,100.0,200/150,-20.0,Low,No,,Never,Moderate,,None,2025-02-20,-10.0,,,
+P1135,102.0,Unknown,180.0,60.0,22.0,,,,Unknown,,Daily,,DrugB,None,,30.0,,,
+P1136,102.0,Male,,60.0,-3.0,invalid,72.0,,Yes,NaN,Never,,,Diabetes,2025-01-10,60.0,Check BP,,Hospital A
+P1137,150.0,,160.0,60.0,-3.0,200/150,85.0,Normal,No,NaN,Never,Moderate,,Diabetes,not_a_date,90.0,,Insured,Hospital B
+P1138,-5.0,,,70.0,22.0,,-20.0,High,Y,Yes,Never,High,,None,2025-02-20,,,,
+P1139,40.0,,160.0,60.0,22.0,120/80,200.0,High,Y,,Daily,,,,2025-02-20,-10.0,Check BP,,
+P1140,25.0,Female,160.0,,22.0,140/90,100.0,Normal,,NaN,Rarely,High,,None,,90.0,Check BP,Insured,
+P1141,25.0,,180.0,90.0,100.0,120/80,-20.0,Low,Unknown,Yes,invalid,None,Unknown,Diabetes,2025-02-20,,Check BP,Uninsured,Hospital B
+P1142,102.0,,,,,,72.0,High,Unknown,NaN,Weekly,,DrugA,,not_a_date,,,,
+P1143,-5.0,Female,-160.0,,,120/80,200.0,Normal,Y,,Daily,None,,Hypertension,,30.0,Check BP,Uninsured,
+P1144,150.0,,999.0,70.0,-3.0,200/150,85.0,Low,,NaN,invalid,,Unknown,None,,30.0,Follow-up required,Uninsured,
+P1145,150.0,Male,,90.0,27.5,,85.0,,No,No,Weekly,,,Hypertension,2025-01-10,90.0,Check BP,,Hospital A
+P1146,25.0,Male,180.0,,27.5,120/80,100.0,Normal,Y,,invalid,,DrugB,,not_a_date,30.0,Check BP,Uninsured,Hospital B
+P1147,150.0,Male,175.0,60.0,,invalid,85.0,,No,,Never,,DrugA,,2025-02-20,60.0,,,
+P1148,150.0,,999.0,80.0,22.0,120/80,85.0,High,,NaN,invalid,Moderate,,,,60.0,Check BP,Uninsured,Hospital A
+P1149,102.0,,160.0,80.0,-3.0,,85.0,High,No,No,Rarely,Moderate,,,2025-01-10,60.0,,,
+P1150,40.0,,160.0,80.0,,200/150,72.0,High,Unknown,NaN,Never,,DrugA,,2025-02-20,,Check BP,,
+P1151,102.0,Female,160.0,80.0,27.5,120/80,100.0,High,Y,,Weekly,Moderate,DrugB,Diabetes,,30.0,,,Hospital A
+P1152,40.0,,999.0,-45.0,100.0,120/80,85.0,High,Unknown,,Never,Moderate,,None,,30.0,,,Hospital B
+P1153,102.0,Male,,60.0,-3.0,120/80,85.0,Low,Y,,Weekly,High,DrugA,Hypertension,,,,Uninsured,Hospital A
+P1154,25.0,,999.0,60.0,,120/80,-20.0,,No,No,Daily,,,,not_a_date,30.0,Check BP,Uninsured,Hospital B
+P1155,25.0,Male,180.0,-45.0,22.0,200/150,-20.0,,Yes,NaN,Rarely,None,DrugA,Hypertension,2025-01-10,,Follow-up required,Insured,
+P1156,40.0,Unknown,,90.0,,,100.0,Normal,Unknown,Yes,invalid,,,,,30.0,,,Hospital A
+P1157,-5.0,,175.0,,27.5,120/80,200.0,Low,Y,,Rarely,,Unknown,Hypertension,,-10.0,,,Hospital B
+P1158,102.0,Unknown,160.0,,100.0,200/150,72.0,Low,Y,,Weekly,,DrugA,,2025-02-20,30.0,Follow-up required,,Hospital B
+P1159,40.0,Unknown,180.0,70.0,22.0,120/80,-20.0,,No,,invalid,High,DrugB,Hypertension,not_a_date,90.0,,Insured,
+P1160,-5.0,Male,999.0,90.0,-3.0,200/150,72.0,High,,,Never,High,,Diabetes,,90.0,,,Hospital B
+P1161,-5.0,,,90.0,100.0,200/150,100.0,Normal,Unknown,NaN,Daily,High,DrugA,Hypertension,2025-01-10,,,,Hospital A
+P1162,25.0,,175.0,60.0,-3.0,invalid,85.0,,Y,NaN,Never,,DrugA,Hypertension,not_a_date,-10.0,Check BP,,Hospital A
+P1163,-5.0,,175.0,80.0,-3.0,,72.0,,Yes,,Weekly,,,,not_a_date,,,Insured,Hospital A
+P1164,,,175.0,-45.0,22.0,200/150,,High,Y,,Rarely,Moderate,,,,90.0,Check BP,Uninsured,Hospital A
+P1165,,Male,180.0,70.0,,200/150,72.0,,Unknown,,Daily,None,DrugA,Diabetes,not_a_date,90.0,,,Hospital A
+P1166,,Male,180.0,-45.0,100.0,200/150,72.0,,,NaN,Daily,,,None,2025-02-20,60.0,,Insured,Hospital B
+P1167,,,999.0,-45.0,-3.0,120/80,-20.0,High,Yes,,invalid,,,,,-10.0,Follow-up required,,Hospital A
+P1168,25.0,,175.0,-45.0,,120/80,100.0,Normal,Y,Yes,Weekly,Moderate,DrugA,Hypertension,,,,Uninsured,
+P1169,25.0,Unknown,160.0,-45.0,-3.0,invalid,200.0,,,No,Never,,,Hypertension,2025-01-10,-10.0,,Insured,Hospital B
+P1170,-5.0,,160.0,60.0,-3.0,,85.0,Normal,Yes,,Daily,High,Unknown,Diabetes,2025-01-10,30.0,,,
+P1171,150.0,Female,180.0,70.0,-3.0,140/90,,,Unknown,,Rarely,,DrugA,,2025-02-20,-10.0,Check BP,Uninsured,Hospital A
+P1172,,Unknown,180.0,60.0,,,,High,No,NaN,Weekly,,DrugA,Diabetes,2025-02-20,,Check BP,,
+P1173,,Unknown,175.0,-45.0,-3.0,200/150,72.0,Low,Yes,,invalid,None,DrugA,,,90.0,,Insured,
+P1174,150.0,Unknown,,60.0,22.0,200/150,72.0,Low,Y,,Rarely,None,Unknown,None,2025-01-10,,,Insured,Hospital A
+P1175,40.0,Female,-160.0,80.0,27.5,140/90,,,Unknown,NaN,Weekly,High,DrugA,Diabetes,2025-01-10,60.0,Follow-up required,,Hospital A
+P1176,40.0,Unknown,180.0,80.0,-3.0,140/90,72.0,Normal,,,Daily,None,DrugA,,2025-02-20,,,,
+P1177,25.0,Male,999.0,-45.0,22.0,200/150,200.0,High,Y,NaN,Rarely,High,,Diabetes,2025-02-20,-10.0,,Insured,Hospital A
+P1178,-5.0,Female,160.0,-45.0,22.0,140/90,-20.0,,No,,Weekly,Moderate,,None,2025-02-20,90.0,,Insured,Hospital A
+P1179,25.0,Male,-160.0,70.0,,,72.0,Low,No,,Rarely,None,DrugB,Diabetes,2025-01-10,,,,Hospital B
+P1180,,Unknown,999.0,70.0,,,72.0,,Yes,Yes,Daily,,DrugA,,,30.0,,,
+P1181,150.0,Male,-160.0,-45.0,100.0,200/150,100.0,,,No,Rarely,High,Unknown,,,-10.0,,Uninsured,
+P1182,-5.0,Unknown,180.0,60.0,27.5,120/80,100.0,Low,No,No,Daily,Moderate,,Diabetes,2025-02-20,60.0,,Insured,Hospital A
+P1183,40.0,,,,100.0,140/90,72.0,Normal,Yes,Yes,Never,,Unknown,None,2025-02-20,,Check BP,Insured,Hospital A
+P1184,102.0,Unknown,175.0,70.0,-3.0,120/80,,Low,Yes,NaN,invalid,Moderate,Unknown,Diabetes,,90.0,,Insured,Hospital B
+P1185,150.0,,-160.0,80.0,22.0,,,,No,,Rarely,Moderate,Unknown,Diabetes,not_a_date,60.0,,Insured,
+P1186,25.0,Unknown,175.0,70.0,27.5,140/90,,,Y,Yes,invalid,None,Unknown,None,2025-01-10,,Check BP,Insured,Hospital A
+P1187,-5.0,Unknown,999.0,90.0,100.0,invalid,85.0,,Yes,,invalid,,DrugB,Hypertension,2025-02-20,-10.0,Check BP,,
+P1188,102.0,Male,,70.0,27.5,140/90,,High,Y,,Rarely,,DrugA,Hypertension,2025-01-10,,Follow-up required,Insured,Hospital A
+P1189,40.0,Unknown,160.0,70.0,,120/80,85.0,High,Y,NaN,Weekly,None,DrugB,,2025-02-20,30.0,Check BP,,Hospital A
+P1190,-5.0,Male,,-45.0,22.0,200/150,,,Yes,No,Daily,Moderate,Unknown,,2025-01-10,-10.0,Check BP,Insured,
+P1191,102.0,Unknown,160.0,70.0,100.0,120/80,,,Unknown,No,Never,None,,,2025-02-20,30.0,,,
+P1192,-5.0,Male,180.0,90.0,22.0,invalid,,,No,,invalid,,,,,,Check BP,Uninsured,Hospital A
+P1193,,,160.0,-45.0,27.5,,100.0,,,,Never,,,Diabetes,not_a_date,,,Insured,Hospital B
+P1194,,,-160.0,80.0,,120/80,200.0,Normal,Unknown,Yes,Daily,Moderate,,,2025-02-20,-10.0,,,
+P1195,,Unknown,180.0,80.0,22.0,,85.0,Low,Y,NaN,Daily,Moderate,DrugA,Hypertension,not_a_date,60.0,,Uninsured,
+P1196,,,999.0,60.0,27.5,140/90,-20.0,Low,No,No,Rarely,None,,,,60.0,Check BP,,Hospital B
+P1197,-5.0,,180.0,-45.0,100.0,200/150,,Low,Unknown,,Rarely,High,,Hypertension,,,,,Hospital B
+P1198,102.0,Female,-160.0,-45.0,-3.0,140/90,72.0,,Yes,Yes,Weekly,None,Unknown,,not_a_date,,Follow-up required,Uninsured,
+P1199,-5.0,,-160.0,,27.5,140/90,72.0,High,Yes,Yes,Rarely,None,DrugA,,not_a_date,-10.0,,Uninsured,Hospital B
